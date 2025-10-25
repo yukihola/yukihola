@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yukihola
+- 👋 Hi, I’m @jisu
 - 👀 I’m interested in coding to solve the math problems or other things 
 - 🌱 I’m currently learning golang
 <!---
